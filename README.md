@@ -15,9 +15,11 @@ Desktop View:
 ### My Solution:
 
 Mobile View:
+
 ![image](https://user-images.githubusercontent.com/90981527/207490164-64801d16-fd05-4ae3-8829-91a498fa8ee1.png)
 
 Desktop View:
+
 ![image](https://user-images.githubusercontent.com/90981527/207490247-243d4c00-9eee-4d80-aed8-b9f2a18042e7.png)
 
 ### Links
