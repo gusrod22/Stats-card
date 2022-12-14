@@ -23,10 +23,10 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### The challenge
 
 Mobile View:
-mobile-design.jpg![image](https://user-images.githubusercontent.com/90981527/207489922-453c76ab-651f-4ab2-a38b-ccc4e0df3da3.png)
+![image](https://user-images.githubusercontent.com/90981527/207489922-453c76ab-651f-4ab2-a38b-ccc4e0df3da3.png)
 
 Desktop View:
-desktop-design.jpg![image](https://user-images.githubusercontent.com/90981527/207489963-81b24fa6-8f53-4f8f-b64e-644db3829214.png)
+![image](https://user-images.githubusercontent.com/90981527/207489963-81b24fa6-8f53-4f8f-b64e-644db3829214.png)
 
 ### My Solution:
 
