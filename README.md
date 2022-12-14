@@ -38,5 +38,5 @@ Desktop View:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/gusrod22/Stats-card/blob/main/index.html
 - Live Site URL: https://gusrod22.github.io/Stats-card/
